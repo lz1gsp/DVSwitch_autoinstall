@@ -81,3 +81,5 @@ echo -e "${GREEN}
 =                                              =
 ================================================${NC}"
 echo 
+echo 73 de LZ1GSP/George
+echo 
